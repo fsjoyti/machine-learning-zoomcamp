@@ -4,7 +4,7 @@ __pycache__/
 **my_dir/
 **logs/
 **models/
-
+venv/
 # file types
 *.h5
 *.tflite
