@@ -25,3 +25,45 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Notes from Kemal Dahha](https://github.com/kemaldahha/machine-learning-course/blob/main/week_4_notes.ipynb)
 * Add your notes here
 
+# Homework 4 - Evaluation Metrics for Classification
+
+This homework focuses on evaluation metrics for binary classification problems. All solutions can be found in the [homework.ipynb](homework.ipynb) notebook.
+
+## Contents
+
+The notebook contains solutions for:
+- ROC AUC analysis
+- Precision and Recall calculations
+- F1 Score optimization
+- Cross-validation implementation
+- Model parameter tuning (C values)
+
+## Key Results
+
+The notebook demonstrates:
+- Confusion matrix calculations
+- Precision-Recall curve analysis
+- Optimal threshold finding for F1 score
+- Cross-validation with different model configurations
+
+## Running the Solutions
+
+To run the solutions:
+1. Make sure you have all required dependencies installed
+2. The dataset will be automatically downloaded when running the notebook
+3. Run all cells in `homework.ipynb` sequentially
+
+## Dependencies
+
+- Python 3
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+## Dataset
+
+The notebook uses the lead scoring dataset, which is automatically downloaded from:
+https://raw.githubusercontent.com/alexeygrigorev/datasets/master/course_lead_scoring.csv
+
